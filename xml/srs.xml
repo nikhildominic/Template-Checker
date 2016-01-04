@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<template>
+<HEADING>
+<no>1</no>
+<head>1.0. Introduction</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>2</no>
+<head>1.1. Purpose</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>3</no>
+<head>1.2. Scope of Project</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>10</csize>
+</HEADING>
+</template>

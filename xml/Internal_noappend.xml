@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<template>
+<HEADING>
+<no>1</no>
+<head>Guided by</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>16</csize>
+</HEADING>
+<HEADING>
+<no>2</no>
+<head>MASTER OF COMPUTER APPLICATIONS</head>
+<font>Times New Roman</font>
+<size>16</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>3</no>
+<head>AMRITA VISHWA VIDYA PEETHAM</head>
+<font>Times New Roman</font>
+<size>16</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>4</no>
+<head>AMRITA SCHOOL OF ENGINEERING, AMRITAPURI, 690525</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>5</no>
+<head>AMRITA VISHWA VIDYA PEETHAM</head>
+<font>Times New Roman</font>
+<size>16</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>6</no>
+<head>AMRITA SCHOOL OF ENGINEERING, AMRITAPURI, 690525</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>7</no>
+<head>BONAFIDE CERTIFICATE</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>8</no>
+<head>DECLARATION</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>9</no>
+<head>ACKNOWLEDGEMENT</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>10</no>
+<head>Table of Contents</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>11</no>
+<head>List of Figures</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>12</no>
+<head>Abstract</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>13</no>
+<head>Introduction</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>14</no>
+<head>Literature Review</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>15</no>
+<head>Methodology</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>16</no>
+<head>Results and Analysis</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>17</no>
+<head>Conclusion &amp; Future Work</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>18</no>
+<head>References</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+</template>

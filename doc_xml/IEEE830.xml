@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<template>
+<HEADING>
+<no>1</no>
+<head>Software Requirements Specification</head>
+<font>Arial</font>
+<size>32</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>2</no>
+<head>Introduction</head>
+<font>Arial</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>3</no>
+<head>Purpose</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>4</no>
+<head>Document Conventions</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>5</no>
+<head>Intended Audience and Reading Suggestions</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>6</no>
+<head>Product Scope</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>7</no>
+<head>References</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>8</no>
+<head>Overall Description</head>
+<font>Times</font>
+<size>18</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>9</no>
+<head>Product Perspective</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>10</no>
+<head>Product Functions</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>11</no>
+<head>User Classes and Characteristics</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>12</no>
+<head>Operating Environment</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>13</no>
+<head>Design and Implementation Constraints</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>14</no>
+<head>User Documentation</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>15</no>
+<head>Assumptions and Dependencies</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>16</no>
+<head>External Interface Requirements</head>
+<font>Times</font>
+<size>18</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>17</no>
+<head>User Interfaces</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>18</no>
+<head>Hardware Interfaces</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>19</no>
+<head>Software Interfaces</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>20</no>
+<head>Communications Interfaces</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>21</no>
+<head>System Features</head>
+<font>Times</font>
+<size>18</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>22</no>
+<head>System Feature 1</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>23</no>
+<head>4.1.1	Description and Priority</head>
+<font>Times</font>
+<size>12</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>24</no>
+<head>4.1.2	Stimulus/Response Sequences</head>
+<font>Times</font>
+<size>12</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>25</no>
+<head>4.1.3	Functional Requirements</head>
+<font>Times</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>26</no>
+<head>REQ-1:</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>27</no>
+<head>REQ-2:</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>28</no>
+<head>System Feature 2 (and so on)</head>
+<font>Times</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>29</no>
+<head>Other Nonfunctional Requirements</head>
+<font>Times</font>
+<size>18</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>30</no>
+<head>Performance Requirements</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>31</no>
+<head>Safety Requirements</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>32</no>
+<head>Security Requirements</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>33</no>
+<head>Software Quality Attributes</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>34</no>
+<head>Business Rules</head>
+<font>Times</font>
+<size>14</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>35</no>
+<head>Other Requirements</head>
+<font>Times</font>
+<size>18</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>36</no>
+<head>Appendix A: Glossary</head>
+<font>Times</font>
+<size>18</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>37</no>
+<head>Appendix B: Analysis Models</head>
+<font>Times</font>
+<size>18</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>38</no>
+<head>Appendix C: To Be Determined List</head>
+<font>Times</font>
+<size>18</size>
+<ctype>Arial</ctype>
+<csize>11</csize>
+</HEADING>
+</template>

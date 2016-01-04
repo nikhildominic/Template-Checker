@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<template>
+<HEADING>
+<no>1</no>
+<head>Abstract</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>2</no>
+<head>Introduction</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>3</no>
+<head>Literature Review</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>4</no>
+<head>Methodology</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>5</no>
+<head>Results and Analysis</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>6</no>
+<head>Conclusion &amp; Future Work</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>7</no>
+<head>References</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>8</no>
+<head>Appendix</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+</template>

@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<template>
+<HEADING>
+<no>1</no>
+<head>Submitted by</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>2</no>
+<head>Nikhil Dominic - AM.EN.P2MCA14019</head>
+<font>Times New Roman</font>
+<size>16</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>3</no>
+<head>Vineeth G.K - AM.EN.P2MCA14028</head>
+<font>Times New Roman</font>
+<size>16</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>4</no>
+<head>Guided by</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>16</csize>
+</HEADING>
+<HEADING>
+<no>5</no>
+<head>MG Thushara, Faculty, CSA</head>
+<font>Times New Roman</font>
+<size>16</size>
+<ctype>Times New Roman</ctype>
+<csize>16</csize>
+</HEADING>
+<HEADING>
+<no>6</no>
+<head>MASTER OF COMPUTER APPLICATIONS</head>
+<font>Times New Roman</font>
+<size>16</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>7</no>
+<head>AMRITA VISHWA VIDYA PEETHAM</head>
+<font>Times New Roman</font>
+<size>16</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>8</no>
+<head>AMRITA SCHOOL OF ENGINEERING, AMRITAPURI, 690525</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>16</csize>
+</HEADING>
+<HEADING>
+<no>9</no>
+<head>January - 2015</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>10</no>
+<head>AMRITA VISHWA VIDYA PEETHAM</head>
+<font>Times New Roman</font>
+<size>16</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>11</no>
+<head>AMRITA SCHOOL OF ENGINEERING, AMRITAPURI, 690525</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>12</no>
+<head>BONAFIDE CERTIFICATE</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>13</no>
+<head>Manjusha Nair M     								  MG Thushara</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>14</no>
+<head>DECLARATION</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>15</no>
+<head>Amritapuri</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>16</no>
+<head>4/01/2016</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>17</no>
+<head>Nikhil Dominic</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>18</no>
+<head>Vineeth GK</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>19</no>
+<head>ACKNOWLEDGEMENT</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>20</no>
+<head>Table of Contents</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>21</no>
+<head>Abstract 							02</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>22</no>
+<head>Introduction 						02</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>23</no>
+<head>Literature Review 					02</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>24</no>
+<head>Methodology 						03</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>25</no>
+<head>Results and Analysis 					08</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>26</no>
+<head>Conclusion &amp; Future Work 				12</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>27</no>
+<head>References 							13</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>28</no>
+<head>List of Figures</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>29</no>
+<head>Figure 1 		XML Schema		05</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>30</no>
+<head>Figure 2 		First Interface		08</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>31</no>
+<head>Figure 3		Generated Output	09</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>32</no>
+<head>Figure 4 		Generated XML		10</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>33</no>
+<head>Figure 5 		Uploading Document	10</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>34</no>
+<head>Figure 6 		Document View		11</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>35</no>
+<head>Figure 7 		Output with Score	11</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>36</no>
+<head>Figure 8 		Sample Search Result	12</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>37</no>
+<head>Abstract</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>38</no>
+<head>Introduction</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>39</no>
+<head>Literature Review:</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>40</no>
+<head>1. Users generally enter short queries</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>41</no>
+<head>2. Users don’t usually modify their queries</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>42</no>
+<head>Methodology</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>43</no>
+<head>TEMPLATE BASED CHECKING</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>44</no>
+<head>Template Extraction</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>45</no>
+<head>Steps:</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>46</no>
+<head>Document Extraction</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>47</no>
+<head>Steps:</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>48</no>
+<head>The output is saved as XML file.</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>49</no>
+<head>XML Comparison</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>50</no>
+<head>Steps:</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>51</no>
+<head>xml files.</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>52</no>
+<head>checked.</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>53</no>
+<head>Score Calculation</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>54</no>
+<head>(no of headings in template) * 5						(1)</head>
+<font>Times New Roman</font>
+<size>10</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>55</no>
+<head>TAGGING AND CLUSTERING</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>56</no>
+<head>Tagging</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>nill</ctype>
+<csize>0</csize>
+</HEADING>
+<HEADING>
+<no>57</no>
+<head>Steps:</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>58</no>
+<head>Search</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>59</no>
+<head>Steps</head>
+<font>Times New Roman</font>
+<size>12</size>
+<ctype>Times New Roman</ctype>
+<csize>14</csize>
+</HEADING>
+<HEADING>
+<no>60</no>
+<head>Results and Analysis:</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>61</no>
+<head>Conclusion &amp; Future Work:</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+<HEADING>
+<no>62</no>
+<head>References:</head>
+<font>Times New Roman</font>
+<size>14</size>
+<ctype>Times New Roman</ctype>
+<csize>11</csize>
+</HEADING>
+<HEADING>
+<no>63</no>
+<head>May 2005</head>
+<font>Times New Roman</font>
+<size>11</size>
+<ctype>Times New Roman</ctype>
+<csize>12</csize>
+</HEADING>
+</template>

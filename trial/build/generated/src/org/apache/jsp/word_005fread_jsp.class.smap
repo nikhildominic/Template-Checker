@@ -1,0 +1,12 @@
+SMAP
+word_005fread_jsp.java
+JSP
+*S JSP
+*F
++ 0 word_read.jsp
+word_read.jsp
+*L
+5,15:49
+20,25:65
+44,5:90
+*E
